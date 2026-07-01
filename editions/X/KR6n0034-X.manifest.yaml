@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6n0034/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0034/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 成唯識論別抄
+  identifiers:
+    krp: KR6n0034
+    cbeta: X48n0808
+    cbeta_old_id: X48n0808
+    authorityid: CA0000453
+    json_key: X0808
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0808.xml
+    old_id: X48n0808
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0034_000-X.yaml, hash: 'sha256:2bd07e7fa970624619369a8bb760c5d149df2f36fdcd90c4d4a05edcf623d6c7'}
+  - {seq: 1, filename: KR6n0034_001-X.yaml, hash: 'sha256:c9a3f520da86ca38ef22323d2a6725fc25f7f156b8b3c2232a8bdbf0380a5cc7'}
+  - {seq: 5, filename: KR6n0034_005-X.yaml, hash: 'sha256:4573d004ffece6cacac9f7444ce9a1661403feb57e51f1918d110ef6fddbd058'}
+  - {seq: 9, filename: KR6n0034_009-X.yaml, hash: 'sha256:36d0b62f35ee10a22b403dfec1df92811d4b6529a8fa302e4fe59a90ff57452b'}
+  - {seq: 10, filename: KR6n0034_010-X.yaml, hash: 'sha256:7d0b7e87c1dfa01428f8cf11bfce5dc4ea0bce3c40ba2032aa06ad44794a3c0a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0034_000-X.markers.yaml, hash: 'sha256:893db47fb3e59c586791dbc1b24a125f911b716960279ad77516a906be383c2a'}
+  - {seq: 1, role: markers, filename: assets/KR6n0034_001-X.markers.yaml, hash: 'sha256:1b007214b5a523a492b3decd6389a3d42a8eabdbdb39f4c37b90ffc0161a472f'}
+  - {seq: 5, role: markers, filename: assets/KR6n0034_005-X.markers.yaml, hash: 'sha256:5a0d43617b84fda8dbec7c30731af0c10501a3bc5a8a8d3137b8508f7a8b6972'}
+  - {seq: 9, role: markers, filename: assets/KR6n0034_009-X.markers.yaml, hash: 'sha256:73c603992a414d9cc6ca9d23505bb73aaecfc13f7a13dffada694cfbc06e3a4b'}
+  - {seq: 10, role: markers, filename: assets/KR6n0034_010-X.markers.yaml, hash: 'sha256:3661f93191ee0cca7c49decb3b03a8f04094954ab9d5cd70855b1919847d8f27'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0034_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17975
+  label: 成唯識論別抄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0034_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13574
+  label: 成唯識論別抄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0034_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 11235
+  label: 成唯識論別抄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0034_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 4125
+  label: 成唯識論別抄卷第十
+  type: juan
+  level: 1
+hash: sha256:6ec6ee08fe5544a0047978f6a77dcb17e88b2a4c8f71c642bbc51fa123de67aa
